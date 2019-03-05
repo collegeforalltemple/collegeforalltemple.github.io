@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: College For All Temple University
+email: tuh27465@temple.edus
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: TempleYDSA
+facebook_username: TUYDSA
 
 # Build settings
 markdown: kramdown
